@@ -1,2 +1,16 @@
-# Research-Paper-Helper-using-LLM
-A text only LLM based research paper analysis tool using prompt engineering.
+# Research Paper Helper (LLM-based)
+
+This project is a text-only Research Paper Helper that uses Large Language Models
+(via Ollama) and prompt engineering to analyze academic papers.
+
+## Features
+- Abstract summarization
+- Major Problem Statement
+- Contribution extraction
+- Limitation identification
+- Future work suggestions
+
+## Tech Stack
+- Python
+- Ollama (Mistral / LLaMA)
+- Prompt Engineering
