@@ -7,6 +7,7 @@ This project is a text-only Research Paper Helper that uses Large Language Model
 - Abstract summarization
 - Major Problem Statement
 - Contribution extraction
+- Proposed Work Expnalation 
 - Limitation identification
 - Future work suggestions
 
