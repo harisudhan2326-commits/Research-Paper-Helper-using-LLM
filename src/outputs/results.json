@@ -1,0 +1,8 @@
+{
+    "Abstract": "This research text is about using deep learning for accurate segmentation of early esophageal cancer. The traditional methods are not sufficient and the mean Dices score is not high enough. The approach presented in this paper is unique as it uses a single image from one patient, called \"You-Only-Have-One\" (YOHO) framework. This ensures patient privacy and minimizes generalization problems since each trained network is applied only to the input image itself.",
+    "Problem Statement": "Deep learning based on [8], [9] and [10].",
+    "Core Contribution": "Not found",
+    "Proposed Work": "Not found",
+    "Limitations": "Not found",
+    "Future Work": "Not found"
+}
