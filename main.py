@@ -207,8 +207,6 @@ def process_paper(Input_Path):
     text = trim_text(text)
     text = normalize_headings(text)
 
-    print("\n--- DEBUG CLEAN TEXT ---\n")
-    print(text[:800])
 
     # EXTRACT SECTIONS
     sections = extract_sections(text)
